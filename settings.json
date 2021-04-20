@@ -1,0 +1,33 @@
+{
+    "sunucuID": "",
+    "prefix": "",
+    "token": "",
+    "sahipler": "",
+
+    "banHammer": "",
+    "jailHammer": "",
+    "muteHammer": "",
+
+
+    "cezaliRol": "",
+    "yasakliTag": "",
+    "muteRol": "",
+    "kayıtsızRol": "",
+    "boosterRol": "",
+    "voiceMuteRol": "",
+    "yasakliTagRol": "",
+
+    "jailLogKanali": "",
+    "muteLogKanali": "",
+    "yeniHesapLogKanali": "",
+    "banLogKanali": "",
+    "ekipLogKanali": "",
+   
+    "tag": "",
+    "familyRol": "",
+
+
+    "yetkiliSiralamaMesajKanal": "",
+    "yetkiliSiralamaMesajID": "",
+    "enAlttakiYetkiliRoluID": ""
+}
